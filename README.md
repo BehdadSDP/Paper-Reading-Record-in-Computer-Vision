@@ -9,4 +9,4 @@ I make this repo to record the papers.
 rainy and foggy weather conditions
 - [ ] CLIP the Gap: A Single Domain Generalization Approach for Object Detection
 - [ ] TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions
-- [ ] Cross-domain vulnerability detection using graph emb e dding and domain adaptation
+- [ ] Cross-domain vulnerability detection using graph embedding and domain adaptation
