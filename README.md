@@ -7,6 +7,7 @@ I make this repo to record the papers.
 - [x] Pay "Attention" to Adverse Weather: Weather-aware Attention-based Object Detection
 - [x] DAGL-Faster: Domain adaptive faster r-cnn for vehicle object detection in
 rainy and foggy weather conditions
+- [x] Cross-Domain Object Detection for Autonomous Driving: A Stepwise Domain Adaptative YOLO Approach
 - [ ] CLIP the Gap: A Single Domain Generalization Approach for Object Detection
 - [ ] TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions
 - [ ] Cross-domain vulnerability detection using graph embedding and domain adaptation
